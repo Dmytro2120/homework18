@@ -1,0 +1,44 @@
+.stylePost{
+    width: 700px; 
+    height: 320px; 
+    background-color: rgb(21, 32, 43, 255);
+    color: #fff;
+    border-radius: 10px;
+    margin: 15px auto;
+}
+
+.styleHead{
+    display: flex;
+    padding: 10px 0 0 10px;
+}
+
+.styleImgIcon{
+    width: 100px;
+    height: 80px;
+    border-radius: 100%;
+    margin: 0 20px 0 0;
+}
+
+.styleHeadText{
+    color: rgb(73, 73, 73);
+    max-width: 400px;
+    height: auto;
+    padding: 0 0 0 50px;
+    margin-right: 15px;
+}
+
+.styleImgPost{
+    width: 500px;
+    height: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.postContent{
+    color: white;
+    font-size: 15px;
+    margin: 10px 0;
+    
+}
+
